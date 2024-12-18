@@ -1,0 +1,15 @@
+{
+  "name": "bridgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "author": "Spasimir Pavlov",
+  "license": "MIT"
+}
